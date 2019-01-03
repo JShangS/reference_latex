@@ -2265,7 +2265,7 @@
   pages     = {388-393},
 }
 
-@Article{Carotenuto2018,
+@Article{Carotenuto2018Radar,
   author  = {Carotenuto, V. and Maio, A. De and Orlando, D. and Stoica, P.},
   title   = {Radar Detection Architecture based on Interference Covariance Structure Classification},
   journal = {IEEE Transactions on Aerospace \& Electronic Systems},
@@ -2273,18 +2273,6 @@
   volume  = {PP},
   number  = {99},
   pages   = {1-1},
-}
-
-@Article{Zhao2018Exploiting,
-  author   = {Y. Zhao and S. Wan and S. Lu and J. Sun and P. Lei},
-  title    = {Exploiting the Persymmetric Property of Covariance Matrices for Knowledge-Aided Space-Time Adaptive Processing},
-  journal  = {IEEE Access},
-  year     = {2018},
-  volume   = {6},
-  pages    = {68001-68012},
-  issn     = {2169-3536},
-  doi      = {10.1109/ACCESS.2018.2879726},
-  keywords = {Covariance matrices;Estimation;Interference;Symmetric matrices;Detectors;Adaptation models;Training;Space-time adaptive processing;knowledge-aided;persymmetric;general linear combination;convex combination;adaptive signal detection},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
