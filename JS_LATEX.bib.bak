@@ -144,7 +144,7 @@
 @Article{ACE,
   author  = {Kraut, S. and Scharf, L. L.},
   title   = {The {CFAR} adaptive subspace detector is a scale-invariant {GLRT}},
-  journal = {IEEE Transactions on Signal Processing A Publication of the IEEE Signal Processing Society},
+  journal = {IEEE Transactions on Signal Processing},
   year    = {1999},
   volume  = {47},
   number  = {9},
@@ -2297,18 +2297,6 @@
   doi       = {10.1109/ICOSP.2014.7015341},
   issn      = {2164-5221},
   keywords  = {covariance matrices;least mean squares methods;radar signal processing;space-time adaptive processing;persymmetric property;knowledge-aided space-time adaptive processing;detection performance;radar systems;symmetrically spaced linear array;pulse train;STAP performance improvement;structure property;minimum mean square error estimation;MMSE;interference-plus-noise covariance matrix;numerical simulations;Jamming;Vectors;Matrix converters;Navigation;Space-time adaptive processing;knowledge-aided;persymmetry;linear combination},
-}
-
-@Article{Zhao2018Exploiting,
-  author   = {Y. Zhao and S. Wan and S. Lu and J. Sun and P. Lei},
-  title    = {Exploiting the Persymmetric Property of Covariance Matrices for Knowledge-Aided Space-Time Adaptive Processing},
-  journal  = {IEEE Access},
-  year     = {2018},
-  volume   = {6},
-  pages    = {68001-68012},
-  issn     = {2169-3536},
-  doi      = {10.1109/ACCESS.2018.2879726},
-  keywords = {Covariance matrices;Estimation;Interference;Symmetric matrices;Detectors;Adaptation models;Training;Space-time adaptive processing;knowledge-aided;persymmetric;general linear combination;convex combination;adaptive signal detection},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
