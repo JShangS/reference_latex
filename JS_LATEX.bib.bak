@@ -1999,7 +1999,7 @@
 @Article{Aubry2014A,
   author  = {Aubry, A and De Maio, A and Foglia, G and Hao, Chengpeng},
   title   = {A radar detector with enhanced range estimation capabilities for partially homogeneous environment},
-  journal = {Radar Sonar \& Navigation Iet},
+  journal = {IET Radar Sonar \& Navigation},
   year    = {2014},
   volume  = {8},
   number  = {9},
