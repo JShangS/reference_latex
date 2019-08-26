@@ -1589,7 +1589,6 @@
   issn     = {0165-1684},
   doi      = {https://doi.org/10.1016/j.sigpro.2018.06.006},
   keywords = {Distributed target detection, Compound-Gaussian clutter, Gamma distribution, {Rao} test, {Wald} test, Generalized likelihood ratio test},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0165168418302032},
 }
 
 @Article{Liu2016Performance,
@@ -1633,7 +1632,6 @@
   issn     = {0165-1684},
   doi      = {https://doi.org/10.1016/j.sigpro.2018.02.019},
   keywords = {Adaptive detection, Generalized eigenrelation, Heterogeneity, Multichannel signal detection, Structure nonhomogeneity, Subspace signal},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0165168418300720},
 }
 
 @Article{Riedl2018Multimodel,
@@ -1722,7 +1720,6 @@
   abstract = {In order to alleviate the effect of the limited secondary data in the non-Gaussian clutter, a knowledge aided adaptive detector is proposed. The covariance matrix estimation is modeled as a general linear combination of prior covariance matrix and sample covariance matrix. Within this consideration, we obtain an adaptive detector based on the generalized likelihood ratio test. Experimental results on simulation and real data demonstrate that the proposed detector achieves better performance than the existing one-step GLRT (1S-GLRT) detectors when the secondary data are insufficient.},
   doi      = {https://doi.org/10.1016/j.sigpro.2018.10.008},
   keywords = {Knowledge-based, Adaptive detection, Compound Gaussian clutter},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0165168418303396},
 }
 
 @Article{Stoica2004Model,
@@ -1968,16 +1965,6 @@
   volume  = {8},
   number  = {9},
   pages   = {1018-1025},
-}
-
-@Article{Gao2014Persymmetric,
-  author  = {Gao, Yongchan and Liao, Guisheng and Zhu, Shengqi and Zhang, Xuepan and Yang, Dong},
-  title   = {Persymmetric Adaptive Detectors in Homogeneous and Partially Homogeneous Environments},
-  journal = {IEEE Transactions on Signal Processing},
-  year    = {2014},
-  volume  = {62},
-  number  = {2},
-  pages   = {331-342},
 }
 
 @Article{Ciuonzo2016On,
@@ -2786,6 +2773,102 @@
   note     = {页数: 4},
   abstract = {本文针对非均匀杂波环境，提出了一种空时自适应处理的新方法．该方法具有系统自由度低，稳健性强、低速目标检测性能好、工程实现方便等特点，与局域联合处理方法及和差波束法相比，它在非正侧面阵机载雷达的实际系统中具有明显的性能优势．},
   keywords = {机载雷达;空时自适应信号处理;杂波抑制},
+}
+
+@Article{Wang2003Robust,
+  author  = {Wang, Yong Liang and Chen, Jian Wen and Bao, Zheng and Peng, Ying Ning},
+  title   = {Robust space-time adaptive processing for airborne radar in nonhomogeneous clutter environments},
+  journal = {IEEE Transactions on Aerospace \& Electronic Systems},
+  year    = {2003},
+  volume  = {39},
+  number  = {1},
+  pages   = {70-81},
+}
+
+@Article{Mao2019Persymmetric,
+  author   = {L., Mao and Y., Gao and S., Yan and L., Xu},
+  title    = {Persymmetric Subspace Detection in Structured Interference and Non-Homogeneous Disturbance},
+  journal  = {IEEE Signal Processing Letters},
+  year     = {2019},
+  volume   = {26},
+  number   = {6},
+  pages    = {928-932},
+  note     = {IEEE Signal Processing Letters},
+  doi      = {10.1109/LSP.2019.2913332},
+  keywords = {Detectors; Interference; Covariance matrices; Adaptation models; Maximum likelihood estimation; Object detection; Training data; Distributed target; subspace detection; persymmetric detector; partially homogeneous environment},
+}
+
+@Article{Liu2019Mismatched,
+  author  = {Liu, J. and Li, J.},
+  title   = {Mismatched Signal Rejection Performance of the Persymmetric GLRT Detector},
+  journal = {IEEE Transactions on Signal Processing},
+  year    = {2019},
+  volume  = {67},
+  number  = {6},
+  pages   = {1610-1619},
+}
+
+@Article{Liu2019One,
+  author   = {J., Liu and S., Sun and W., Liu},
+  title    = {One-Step Persymmetric GLRT for Subspace Signals},
+  journal  = {IEEE Transactions on Signal Processing},
+  year     = {2019},
+  volume   = {67},
+  number   = {14},
+  pages    = {3639-3648},
+  note     = {IEEE Transactions on Signal Processing},
+  doi      = {10.1109/TSP.2019.2918994},
+  keywords = {adaptive signal detection; covariance matrices; Gaussian processes; Monte Carlo methods; object detection; constant false alarm rate property; target steering vector mismatch; step persymmetric GLRT; persymmetric structures; generalized likelihood ratio test; homogeneous Gaussian clutter; finite-sum expression; Monte Carlo simulations; covariance matrix; Detectors; Covariance matrices; Clutter; Training data; Symmetric matrices; Robustness; Radar; Adaptive detection; persymmetry; subspace signal; constant false alarm rate; generalized likelihood ratio test},
+}
+
+@Article{Pailloux2011Persymmetric,
+  author  = {Pailloux, Guilhem and Forster, Philippe and Ovarlez, Jean Philippe and Pascal, Frederic},
+  title   = {Persymmetric Adaptive Radar Detectors},
+  journal = {IEEE Transactions on Aerospace \& Electronic Systems},
+  year    = {2011},
+  volume  = {47},
+  number  = {4},
+  pages   = {2376-2390},
+}
+
+@Article{Gao2014Persymmetric,
+  author   = {Y., Gao and G., Liao and S., Zhu and X., Zhang and D., Yang},
+  title    = {Persymmetric Adaptive Detectors in Homogeneous and Partially Homogeneous Environments},
+  journal  = {IEEE Transactions on Signal Processing},
+  year     = {2014},
+  volume   = {62},
+  number   = {2},
+  pages    = {331-342},
+  note     = {IEEE Transactions on Signal Processing},
+  doi      = {10.1109/TSP.2013.2288087},
+  keywords = {adaptive filters; adaptive signal detection; covariance matrices; matched filters; Monte Carlo methods; persymmetric adaptive detector; partially homogeneous environment; signal detection; noise covariance matrix structure; unknown scaling factor; persymmetric adaptive coherence estimator; Per-ACE detector; persymmetric adaptive matched filter detector; Monte Carlo method; Covariance matrices; Noise; Vectors; Detectors; Training data; Coherence; Radar; Adaptive coherence estimator; adaptive matched filter; adaptive signal detection; persymmetry; probabilities of false alarm and detection},
+}
+
+@Article{Mao2019Persymmetric,
+  author   = {L. {Mao} and Y. {Gao} and S. {Yan} and L. {Xu}},
+  title    = {Persymmetric Subspace Detection in Structured Interference and Non-Homogeneous Disturbance},
+  journal  = {IEEE Signal Processing Letters},
+  year     = {2019},
+  volume   = {26},
+  number   = {6},
+  pages    = {928-932},
+  month    = {June},
+  issn     = {1070-9908},
+  doi      = {10.1109/LSP.2019.2913332},
+  keywords = {covariance matrices;Monte Carlo methods;object detection;probability;signal detection;anti-interference ability;persymmetric subspace detection;structured interference;nonhomogeneous disturbance;distributed target detection;target signal;linearly independent subspaces;unknown coordinates;unknown covariance matrix;persymmetric structure;persymmetric subspace detector;point-like target;constant false alarm rate property;covariance matrix structure;detection performance;Monte Carlo trials;probabilities of false alarm;analytical expressions;power scaling factor;Detectors;Interference;Covariance matrices;Adaptation models;Maximum likelihood estimation;Object detection;Training data;Distributed target;subspace detection;persymmetric detector;partially homogeneous environment},
+}
+
+@Article{Gao2015Generalised,
+  author   = {Y. {Gao} and G. {Liao} and S. {Zhu} and D. {Yang}},
+  title    = {Generalised persymmetric parametric adaptive coherence estimator for multichannel adaptive signal detection},
+  journal  = {IET Radar, Sonar Navigation},
+  year     = {2015},
+  volume   = {9},
+  number   = {5},
+  pages    = {550-558},
+  issn     = {1751-8784},
+  doi      = {10.1049/iet-rsn.2014.0101},
+  keywords = {adaptive estimation;adaptive signal detection;autoregressive processes;covariance matrices;smoothing methods;generalised persymmetric parametric adaptive coherence estimator;GPer-PACE detector;multichannel adaptive signal detection;covariance matrix;multichannel autoregressive process;subspatial aperture smoothing},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

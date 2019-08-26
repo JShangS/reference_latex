@@ -5581,13 +5581,13 @@ pages={1080-1092},
    type = {Book}
 }
 
-@book{BanerjeeRoy2015,
-   author = {Banerjee, Sudipto and Roy, Anindya},
-   title = {Linear algebra and matrix analysis for statistics},
-   publisher = {CRC Press},
-   address = {Boca Raton},
-   year = {2015},
-   type = {Book}
+@Book{Banerjee2015,
+  title     = {Linear algebra and matrix analysis for statistics},
+  publisher = {CRC Press},
+  year      = {2015},
+  author    = {Banerjee, Sudipto and Roy, Anindya},
+  address   = {Boca Raton},
+  type      = {Book},
 }
 
 @book{GiniRangaswamy08KA,
@@ -8539,13 +8539,13 @@ month={May},}
 	type = {Book}
 }
 
-@book{WangPeng00,
-	author = {王永良 and 彭应宁},
-	title = {空时自适应信号处理},
-	publisher = {清华大学出版社},
-	address = {北京},
-	year = {2000},
-	type = {Book}
+@Book{王永良2000,
+  title     = {空时自适应信号处理},
+  publisher = {清华大学出版社},
+  year      = {2000},
+  author    = {王永良 and 彭应宁},
+  address   = {北京},
+  type      = {Book},
 }
 
 @book{Zhanggy06,
@@ -8655,5 +8655,18 @@ month={May},}
 	pages={1-7},
 	year={1993},
 	}
+
+@Article{Liu2019One,
+  author   = {J., Liu and S., Sun and W., Liu},
+  title    = {One-Step Persymmetric GLRT for Subspace Signals},
+  journal  = {IEEE Transactions on Signal Processing},
+  year     = {2019},
+  volume   = {67},
+  number   = {14},
+  pages    = {3639-3648},
+  note     = {IEEE Transactions on Signal Processing},
+  doi      = {10.1109/TSP.2019.2918994},
+  keywords = {adaptive signal detection; covariance matrices; Gaussian processes; Monte Carlo methods; object detection; constant false alarm rate property; target steering vector mismatch; step persymmetric GLRT; persymmetric structures; generalized likelihood ratio test; homogeneous Gaussian clutter; finite-sum expression; Monte Carlo simulations; covariance matrix; Detectors; Covariance matrices; Clutter; Training data; Symmetric matrices; Robustness; Radar; Adaptive detection; persymmetry; subspace signal; constant false alarm rate; generalized likelihood ratio test},
+}
 
 @Comment{jabref-meta: databaseType:bibtex;}
